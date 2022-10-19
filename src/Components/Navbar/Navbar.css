@@ -1,0 +1,13 @@
+
+#change{
+  background-image: linear-gradient(to right, #1aa1af, #2890aa, #3b7e9f, #496d8f, #505c7c);
+    /* border: 1px solid black; */
+    transition: 0.5s ease;
+    z-index: 2;
+    color: black;
+  }
+  #navbar{
+    background-color: transparent;
+    transition: 0.5s ease;
+  }
+  
