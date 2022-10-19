@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.328ab46b.js",
+    "main.css": "/static/css/main.27187bde.css",
+    "main.js": "/static/js/main.2ab5c8af.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Bath&bodyworks.jpg": "/static/media/Bath&bodyworks.bb43bf90c4a2c31fa3c3.jpg",
+    "static/media/unplashimg.jpg": "/static/media/unplashimg.f736231359819751f420.jpg",
+    "static/media/Anand profile pic.png": "/static/media/Anand profile pic.66ed9a583105d0e9148b.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.328ab46b.js.map": "/static/js/main.328ab46b.js.map",
+    "main.27187bde.css.map": "/static/css/main.27187bde.css.map",
+    "main.2ab5c8af.js.map": "/static/js/main.2ab5c8af.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.328ab46b.js"
+    "static/css/main.27187bde.css",
+    "static/js/main.2ab5c8af.js"
   ]
 }
